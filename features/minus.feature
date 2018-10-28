@@ -11,3 +11,4 @@ Feature: Substract function of calculator
     | 10 | 6 | 4 |
     | 789 | 1000 | -211 |
     | 111 | 111 | 0 |
+    | -1 | -15 | 14 |
