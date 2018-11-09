@@ -25,4 +25,3 @@ Feature: Plus function of calculator
         Given first number is 1234 and second number is -537
         When I ask calculator to plus two numbers
         Then the answer should be 697
-        
