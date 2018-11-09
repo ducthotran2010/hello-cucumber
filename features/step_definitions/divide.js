@@ -1,5 +1,5 @@
 const assert = require('assert');
-const { Given, When, Then } = require('cucumber');
+const { When, Then } = require('cucumber');
 const { divide } = require('../../src/caculator');
 
 // @Given:

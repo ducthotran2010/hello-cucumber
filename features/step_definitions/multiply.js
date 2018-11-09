@@ -1,5 +1,4 @@
-const assert = require('assert');
-const { Given, When, Then } = require('cucumber');
+const { When } = require('cucumber');
 const { multiply } = require('../../src/caculator');
 
 // Given('first number is {int} and second number is {int}', function (firstInt, secondInt) {
